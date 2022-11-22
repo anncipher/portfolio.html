@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+    color: white;
+}
+input {
+    border-radius: 20px;
+    border-color: brown;
+    margin: 2px 2px 2px 2px;
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+}
+ 
+ a {
+    float: right;
+    margin: 0px;
+    padding: 8px;
+ }
+
+ img:hover {
+    opacity: 0.5;
+    }
